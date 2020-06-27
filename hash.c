@@ -10,5 +10,6 @@ int main()
 		int data;
 		int key;
 	};
+	struct table array
 
 
